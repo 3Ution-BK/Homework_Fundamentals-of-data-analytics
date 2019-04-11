@@ -1,0 +1,10 @@
+# JupyterNotebook
+.ipynb_checkpoints
+**/.ipynb_checkpoints/*
+
+# PDF
+.pdf
+**/*.pdf
+
+# Database
+**/input
