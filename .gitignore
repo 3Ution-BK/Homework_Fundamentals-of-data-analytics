@@ -6,5 +6,5 @@
 .pdf
 **/*.pdf
 
-# Database
-**/input
+# VSCode
+.vscode
