@@ -9,4 +9,5 @@ Our TA told me to upload my homework to github and share it with the address.
 
 ## Caution
 
-The database will not upload to github. Instead, it will be noted in the file.
+Some database will not upload to github. In this case, it will be noted in the
+file.
