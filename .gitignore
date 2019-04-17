@@ -2,10 +2,6 @@
 .ipynb_checkpoints
 **/.ipynb_checkpoints/*
 
-# PDF
-.pdf
-**/*.pdf
-
 # VSCode
 .vscode
 
