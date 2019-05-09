@@ -1,0 +1,6 @@
+# PDF
+*.pdf
+
+# Database
+input
+**/input
